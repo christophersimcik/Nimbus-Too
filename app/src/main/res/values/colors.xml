@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="m_bot">#FBB65C</color>
+    <color name="m_mid">#A36756</color>
+    <color name="m_top">#305F74</color>
+    <color name="n_bot">#F0F0DC</color>
+    <color name="n_mid">#BEE1DE</color>
+    <color name="n_top">#3C73C8</color>
+    <color name="mn_bot">#342E3B</color>
+    <color name="mn_mid">#343447</color>
+    <color name="mn_top">#000000</color>
+
+</resources>
